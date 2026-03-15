@@ -43,7 +43,7 @@
 
 ### Unity Game Development
 <p align="center">
-  <img src="" width="400px">
+  <img src="https://github.com/Senura-Peiris/My-game-creating-journey/blob/main/unity%20image.svg" width="400px">
 </p>
 
 #### My Courses
