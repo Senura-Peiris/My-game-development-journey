@@ -4,10 +4,6 @@
 #Gaming Industry in Sri Lanka
 ## Gaming Industry Overview (Sri Lanka)
 
-   <p align= "center">
-     <img src="https://github.com/Senura-Peiris/My-game-creating-jurney/blob/main/Sri%20Lanka%20vs%20Global%20game%20industries.png" alt="Global vs Sri lanka" width="600px">
-   </p>
-
 
               Opportunities for New Developers
                      (Sri Lanka)
@@ -28,6 +24,9 @@
         Learn Code   Publish Small   Build Team    Large Games
         (Unity, C#)     Games        & Funding       (AAA)
 
+ <p align= "center">
+     <img src="https://github.com/Senura-Peiris/My-game-creating-jurney/blob/main/Sri%20Lanka%20vs%20Global%20game%20industries.png" alt="Global vs Sri lanka" width="600px">
+   </p>
 
           Current Sri Lanka Gaming Situation
 
