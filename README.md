@@ -1,4 +1,4 @@
-# My-game-development-journey
+# Game Development
 <p align ="center">
   <img src="https://github.com/Senura-Peiris/My-game-creating-jurney/blob/main/game%20world%20top%20image.png" width="100%" height="450px"
     style="filter: brightness(50%);">
