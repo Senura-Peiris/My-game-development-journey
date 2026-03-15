@@ -1,6 +1,6 @@
 # My-game-development-jurney
 <p align ="center">
-  <img src="" width="100%">
+  <img src="https://github.com/Senura-Peiris/My-game-creating-jurney/blob/main/game%20world%20top%20image.png" width="100%" height="400px">
 </p>
 
 #Gaming Industry in Sri Lanka
